@@ -14,8 +14,8 @@ func (s Snowy) Greet() { fmt.Printf("🎀 Hello, I'm %s! 🎀\n", s.name) }
 
 func main() {
     snowy := Snowy{"Snowy",
-        []string{"Go", "Python", "Java", "Kotlin", "Golang", "Dart", "JavaScript"},
-        []string{"🐱 Cats", "🐾 Kittens", "💡 Tinkering for new ideas"}}
+        []string{""Python", "Java", "Kotlin", "Golang", "Dart", "JavaScript"},
+        []string{"🐾 Kittens", "💡 Tinkering for new ideas", "Mathematics"}}
 
     snowy.Greet()
 }
