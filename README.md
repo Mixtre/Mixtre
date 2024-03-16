@@ -1,22 +1,2 @@
-### Hello Traveller 👋🏻
-```go
-package main
-
-import "fmt"
-
-type Snowy struct {
-    name      string
-    langs     []string
-    interests []string
-}
-
-func (s Snowy) Greet() { fmt.Printf("🎀 Hello, I'm %s! 🎀\n", s.name) }
-
-func main() {
-    snowy := Snowy{"Snowy",
-        []string{"Python", "Java", "Kotlin", "Golang", "Dart", "JavaScript"},
-        []string{"🐾 Kittens", "💡 Tinkering for new ideas", "Mathematics"}}
-
-    snowy.Greet()
-}
-```
+## こんにちは、旅行者です！ 👋🏻
+**As a passionate learner driven by exploration and hands-on experience, my GitHub reflects my personal journey of growth across diverse subjects. Discover various projects inspired by research and my desire to expand my knowledge. This profile showcases my continuous learning experiences through different technologies, programming languages, and frameworks.**
