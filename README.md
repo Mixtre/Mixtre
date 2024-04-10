@@ -1,3 +1,3 @@
 <div align="center">
-  <h3>Greetings Traveller! ☕</h3>
+  <b>Greetings Traveller! ☕</b>
 </div>
