@@ -1,4 +1,4 @@
-Greetings! This GitHub profile serves as a repository for my personal research works and projects. Here, I document and upload the research endeavors and projects I undertake, reflecting my learning, making, and studying processes.
+<small><strong>Greetings! This GitHub profile serves as a repository for my personal research works and projects. Here, I document and upload the research endeavors and projects I undertake, reflecting my learning, making, and studying processes.</strong></small>
 
 ![](https://komarev.com/ghpvc/?username=Mixtre&style=for-the-badge)
 
