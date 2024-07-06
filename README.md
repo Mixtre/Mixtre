@@ -1,4 +1,3 @@
 <p align="center">
-  <img src="https://github.com/Mixtre/Mixtre/assets/149194765/b4bd811e-5585-409d-b242-54547842188f"/>
-
+  <img src="https://github.com/Mixtre/Mixtre/assets/149194765/98654f51-60cd-423b-a445-ef6229466fe3" />
 </p>
