@@ -1,1 +1,3 @@
-ɪ ʟᴏᴠᴇ ɴᴇᴜʀᴀʟ ɴᴇᴛᴡᴏʀᴋꜱ, ʟʟᴍ'ꜱ, ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ᴀɴᴅ ᴏᴛʜᴇʀ ꜱᴛᴜꜰꜰ... ᴄᴀꜰꜰᴇɪɴᴇ ᴛᴏᴏ...
+```haskell
+I love neural networks, llms, machine learning... and uhh caffeine too!
+```
