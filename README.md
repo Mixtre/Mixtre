@@ -1,3 +1,3 @@
-```haskell
-I love neural networks, llms, machine learning... and uhh caffeine too!
+```http
+I love neural networks, machine learning and uhh... caffeine...
 ```
