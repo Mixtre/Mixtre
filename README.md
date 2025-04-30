@@ -1,3 +1,3 @@
-<s>Contact via Discord: 
+<small>Contact via Discord: 
 @not.kitsune
-</s>
+</small>
