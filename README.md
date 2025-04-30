@@ -1,3 +1,2 @@
-<small>Contact via Discord: 
-@not.kitsune
-</small>
+<sub><b>Contact via Discord: <br></sub>
+@`not.kitsune`</b>
