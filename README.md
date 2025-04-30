@@ -1,2 +1,3 @@
-Contact via Discord: 
+<s>Contact via Discord: 
 @not.kitsune
+</s>
