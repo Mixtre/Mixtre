@@ -1,2 +1,4 @@
-<sub><b>Contact via Discord: <br></sub>
-`not.kitsune`</b>
+<b>Contact via Discord: </b><br>
+```ruby
+not.kitsune
+```
