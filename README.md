@@ -1,6 +1,4 @@
 <b>Contact via Discord: </b><br>
-```ruby
-
+```asm
 not.kitsune
-
 ```
