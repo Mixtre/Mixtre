@@ -1,4 +1,6 @@
-<b>Contact via Discord: </b><br>
+
+##### Contact via Discord:
+
 <b>
 @`not.kitsune`
 </b>
