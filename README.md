@@ -2,8 +2,8 @@
 
 **soft code & quiet chaos**
 
-> i make things. sometimes they work.  
-sometimes they don’t.
+> **i make things. sometimes they work.  
+sometimes they don’t.**
 
 **🖤 code // games // chaos**
 
