@@ -5,7 +5,7 @@
 > **i make things. sometimes they work.  
 sometimes they don’t.**
 
-**🖤 code // games // chaos**
+**🤍 code // games // chaos**
 
 **discord @`not.kitsune`**  
 
