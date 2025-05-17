@@ -1,6 +1,11 @@
+### kitsune
 
-##### Contact via Discord:
+soft code & quiet chaos  
 
-<b>
-@`not.kitsune`
-</b>
+> i make things. sometimes they work.  
+sometimes they don’t.
+
+**🖤 code // games // chaos**
+
+discord @`not.kitsune`  
+
