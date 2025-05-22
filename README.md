@@ -11,3 +11,7 @@
 - lives in the terminal, sleeps in oversized hoodies  
 - has 12 unfinished projects and 0 regrets  
 - talks sweet, writes code that bites (๑•﹏•)
+
+### current mood
+```sh
+tmux a || tea && stare at a wall
