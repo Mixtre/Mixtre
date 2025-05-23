@@ -1,4 +1,4 @@
-> just a soft lil twinky femboy who codes n' breaks things (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
+> just a soft lil twinky femboy who codes n' breaks things
 
 > ✿ student > ⛓ reverse engineering > ⚙ backend dev > 🧃 systems dev > ☁ pentesting / bug hunting
 
