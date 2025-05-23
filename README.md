@@ -8,7 +8,6 @@
 
 - probably overthinking something rn  
 - if it compiles, i get butterflies  
-- lives in the terminal, sleeps in oversized hoodies  
 - has 12 unfinished projects and 0 regrets  
 - talks sweet, writes code that bites (๑•﹏•)
 
